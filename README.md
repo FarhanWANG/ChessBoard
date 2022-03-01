@@ -1,4 +1,6 @@
 # ChessBoard
+For each detailed step, write reference and knowledge behind it.
+
 
 ## Hardware:
   * Grid: (9 x 5) x 2
@@ -6,10 +8,12 @@
   * Automatic lifting
   * Pressure sensor
   * Arduino
+  * 3D-Print outercase and chessboard
 
 
 ## Software:
   * Chess Rules for Player vs Player
   * Develop AI Player
   * Coding to instruct hardware (Arduino)
+  * Fusion360 / AutoCAD to design
   * Voice customization to simulate all possible situations (Analyze voice to self-generate related voices: consider mechanism of voice changer) 
